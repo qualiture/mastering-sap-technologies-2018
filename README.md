@@ -2,6 +2,8 @@
 
 ## Details
 
+*Shortlink to this repository: [http://bit.ly/qualiture-mst2018](http://bit.ly/qualiture-mst2018)*
+
 This repository will contain media for the two topics I will present at **[Mastering SAP Technologies Johannesburg, 12-14 March 2018](http://www.masteringsapconference.com/tech/sa/)**:
 
 ### From Creased Napkin to Working PoC in One Week
