@@ -11,4 +11,5 @@ Tuesday 13 March 2018 | 10:15am - 11:50am
 
 ### Links
 
- - To be added
+ - Human Factors [ROI Calculators](http://humanfactors.com/coolstuff/roi.asp)
+ - iBook [Cost-Justifying Usability](https://itunes.apple.com/nl/book/cost-justifying-usability/id547256108?l=en&mt=11)
