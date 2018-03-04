@@ -10,6 +10,10 @@ This repository will contain media for the two topics I will present at **[Maste
 
 > With so many SAP technologies and tools, it may be difficult to determine which ones to choose to create a solid PoC for a new cloud requirement. This presentation will provide insights into the various tools and technologies, when to use what, and various tips and tricks to jumpstart development.
 
+[Go to resources](poc/resources.md)
+
 ### How to Prove the ROI for Usability Improvements
 
 > Most UI/UX improvements are not implemented in existing software because it is perceived to be too costly. This presentation gives real-world examples and calculations that prove the ROI happens way sooner than you may think...
+
+[Go to resources](roi/resources.md)
