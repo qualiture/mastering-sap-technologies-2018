@@ -6,6 +6,7 @@ Tuesday 13 March 2018 | 10:15am - 11:50am
 
 ### Presentation
 
+![How to Prove the ROI for Usability Improvements](roi.png)
 [How to Prove the ROI for Usability Improvements](#) (Link to be added after presentation)
 
 ### Links

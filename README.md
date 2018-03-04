@@ -10,6 +10,8 @@ This repository will contain media for the two topics I will present at **[Maste
 
 Monday 12 March 2018 | 12:45pm - 1:30pm
 
+![](./poc/poc.png)
+
 > With so many SAP technologies and tools, it may be difficult to determine which ones to choose to create a solid PoC for a new cloud requirement. This presentation will provide insights into the various tools and technologies, when to use what, and various tips and tricks to jumpstart development.
 
 [Go to resources](poc/)
@@ -17,6 +19,8 @@ Monday 12 March 2018 | 12:45pm - 1:30pm
 ### How to Prove the ROI for Usability Improvements
 
 Tuesday 13 March 2018 | 10:15am - 11:50am
+
+![](./roi/roi.png)
 
 > Most UI/UX improvements are not implemented in existing software because it is perceived to be too costly. This presentation gives real-world examples and calculations that prove the ROI happens way sooner than you may think...
 
