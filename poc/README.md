@@ -13,6 +13,7 @@ Monday 12 March 2018 | 12:45pm - 1:30pm
 
  - Download [Scenes](https://experience.sap.com/designservices/approach/scenes)
  - Sign up for [SAP Build](https://www.build.me)
+    - A great [BUILD introduction blog](https://blogs.sap.com/2015/08/08/lets-build/) with insightful comments
  - Sign up for [SAP Cloud Platform trial]()
  - Create an [SAP HANA Multi-Database Container](https://www.sap.com/developer/tutorials/fiori-ios-scpms-geolocation.html)
      > Since the creation of an MDC is explained in a tutorial with a broader scope than just creating an MDC, simply follow steps 1-7
