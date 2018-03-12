@@ -7,7 +7,16 @@ Monday 12 March 2018 | 12:45pm - 1:30pm
 ### Presentation
 
 ![From Creased Napkin to Working PoC in One Week](poc.png)
-Download PDF: [From Creased Napkin to Working PoC in One Week](From_creased_napkin_to_working_PoC.pdf)
+
+**Download PDF: [From Creased Napkin to Working PoC in One Week](From_creased_napkin_to_working_PoC.pdf)**
+
+PDF booklets with screenshots from the live demo's:
+
+* [SAP BUILD](BUILD.pdf)
+* [SAP HANA MDC](HANA_MDC.pdf)
+* [SAP API Business Hub](API_Hub.pdf)
+* [SAP Web IDE](Web_IDE.pdf)
+* [SAP Cloud Platform SDK for iOS](iOS_SDK.pdf)
 
 ### Links
 
