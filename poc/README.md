@@ -7,7 +7,7 @@ Monday 12 March 2018 | 12:45pm - 1:30pm
 ### Presentation
 
 ![From Creased Napkin to Working PoC in One Week](poc.png)
-[From Creased Napkin to Working PoC in One Week](From_creased_napkin_to_working_PoC.pdf) (Link to be added after presentation)
+Download PDF: [From Creased Napkin to Working PoC in One Week](From_creased_napkin_to_working_PoC.pdf)
 
 ### Links
 
